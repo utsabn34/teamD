@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 asd asdadsadsas
-=======
+
 i dont know
->>>>>>> 3f28f7ada343236e60bb7b3eadf0420472e24424
+
